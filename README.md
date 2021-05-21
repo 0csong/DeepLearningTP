@@ -3,5 +3,5 @@
 눈의 상태를 파악하여 졸음운전을 방지함
 
 EYE learning으로 모델만들고 눈감지로 탐지
-
+PPT영상:https://youtu.be/_kigVr3e_jU
 
