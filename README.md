@@ -12,5 +12,5 @@ CNN으로 뜬눈과 감은 눈을 학습하고 Perclos로 졸음 판단
 
 졸음 판단시 사용자에게 메시지+소리 알람으로 경고
 
-PPT영상:https://youtu.be/_kigVr3e_jU
+PPT영상:https://youtu.be/xvVSjHP6QJI
 
